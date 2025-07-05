@@ -100,7 +100,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for administrative interfaces.*
 
-* [ajenti](https://onlyfans.com/sophiedeevip) - The admin panel your servers deserve.
+* [ajenti](https://tinyurl.com/yz47wkbk) - The admin panel your servers deserve.
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 * [flask-admin](https://onlyfans.com/brittfitfree) - Simple and extensible administrative interface framework for Flask.
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
