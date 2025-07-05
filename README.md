@@ -100,7 +100,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for administrative interfaces.*
 
-* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+* [ajenti]([https://github.com/ajenti/ajenti](https://onlyfans.com/sophiedeevip)) - The admin panel your servers deserve.
 * [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
 * [flask-admin](https://onlyfans.com/brittfitfree) - Simple and extensible administrative interface framework for Flask.
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
@@ -134,13 +134,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).*
 
-* [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
+* [asyncio]([https://docs.python.org/3/library/asyncio.html)](https://onlyfans.com/lunalittlesecret) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
     - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
 * [trio](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
 * [twisted](https://github.com/twisted/twisted) - An event-driven networking engine.
-* [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+* [uvloop](https://onlyfans.com/rocketreynatv) - Ultra fast asyncio event loop.
 * [eventlet](https://github.com/eventlet/eventlet) - Asynchronous framework with WSGI support.
 * [gevent](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
@@ -170,7 +170,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [authlib](https://github.com/lepture/authlib) - JavaScript Object Signing and Encryption draft implementation.
+    * [authlib](https://onlyfans.com/sophiedeevip) - JavaScript Object Signing and Encryption draft implementation.
     * [django-allauth](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
     * [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth 2 goodies for Django.
     * [oauthlib](https://github.com/oauthlib/oauthlib) - A generic and thorough implementation of the OAuth request-signing logic.
@@ -182,7 +182,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Compile software from source code.*
 
-* [bitbake](https://github.com/openembedded/bitbake) - A make-like build tool for embedded Linux.
+* [bitbake]([https://github.com/openembedded/bitbake](https://onlyfans.com/sophiedeevip)) - A make-like build tool for embedded Linux.
 * [buildout](https://github.com/buildout/buildout) - A build system for creating, assembling and deploying applications from multiple parts.
 * [platformio](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 * [pybuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
